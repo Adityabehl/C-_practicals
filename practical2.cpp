@@ -1,4 +1,4 @@
-// Write a program to remove the duplicates from an array.
+// Q2-Write a program to remove the duplicates from an array.
 
 #include <iostream>
 #include <vector>
